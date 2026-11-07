@@ -1,0 +1,67 @@
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\БД_Библеотека.accdb
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Регистрация_админ.resources
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Login\Desktop\Практика\Задание 4 в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\БД_Библеотека.accdb
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe.config
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Регистрация_админ.resources
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\Users\Login\Desktop\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\БД_Библеотека.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Авторы.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Вход_Клиент.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Меню_Админ.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Меню_Клиента.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Регистрация_админ.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Регистрация_Клиент.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Выдача.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Жанры.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Книги.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\БД_Библеотека.accdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Авторы.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Вход_Клиент.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Выдача.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Жанры.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Клиенты.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Книги.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Меню_Админ.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Меню_Клиента.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Регистрация_админ.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Регистрация_Клиент.resources
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+\\192.168.3.250\Veda\3 курс\ИСП 31\Отчеты ИСП 31 УП ПМ.03\Ильиных\Практика\Задание_4_в1 — копия\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
